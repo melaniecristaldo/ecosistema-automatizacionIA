@@ -65,3 +65,5 @@ Este repositorio contiene la documentación y evidencias necesarias para la entr
 Proyecto realizado como entrega final del curso de AI Automation.
 
 **Estado:** Proyecto realizado y flujo funcional.
+
+DASHBOARD DE CONTROL {VER DASHBOARD DEL CONTROL} https://airtable.com/appyejfCbzxaMhaM5/shrI8wzKq0raCAV0r
